@@ -63,7 +63,7 @@ public class Pedido {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "Descrição : "+ descricao + "\nValor : "+ valor;
+		return "ID DO CLIENTE : "+ idCliente + "\nDescrição : "+ descricao + "\nValor : "+ valor;
 	}
 	
 	
